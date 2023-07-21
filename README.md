@@ -1,5 +1,5 @@
 # TrainingMate
-TrainingMate je web-servis namijenjen evidentiranju vježbi i obroka uz razne funkcionalnosti koje korisnicima omogućuju lakše praćanje informacija vezanih uz vježbe i obroke.
+TrainingMate je web-servis izrađen pomoću Pythona, Flaska i MySqla namijenjen evidentiranju vježbi i obroka uz razne funkcionalnosti koje korisnicima omogućuju lakše praćanje informacija vezanih uz vježbe i obroke.
 
 # Funkcionalnosti
 # Osnovne funkcionalnosti
